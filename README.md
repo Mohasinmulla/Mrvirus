@@ -1,5 +1,3 @@
-# Mrvirus
-
 # 💫 About Me:
 I’m a final-year B.Tech student specializing in CSE (IoT) with a strong interest in Embedded Systems, IoT, and Robotics.<br>I enjoy building hardware–software integrated projects and working close to real-world industrial problems.<br><br>🔧 Hands-on experience with:<br><br>ESP32 / Arduino / Sensors & Actuators<br><br>IoT systems using Blynk & Firebase<br><br>Computer Vision (YOLO-based inspection)<br><br>Embedded C, C++, Python, and basic Web Tech<br><br>🚀 I have worked on industry-sponsored and academic projects, including smart parking systems, automated quality inspection, and smart agriculture solutions.<br><br>🎯 Currently seeking internships and entry-level roles in Embedded Systems, IoT, and Robotics, where I can learn, build, and contribute to impactful products.
 
